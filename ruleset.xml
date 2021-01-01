@@ -38,7 +38,5 @@
     <arg value="nps"/>
 
     <!-- Directories to be checked -->
-    <file>app</file>
-    <file>tests/Cases</file>
-    <file>tests/Presenters</file>
+    <file>../../../app</file>
 </ruleset>
