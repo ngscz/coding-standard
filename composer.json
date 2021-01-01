@@ -3,7 +3,8 @@
     "description": "Coding standards",
     "keywords": ["coding standards"],
     "minimum-stability": "dev",
-    "require-dev": {
+    "license": "MIT",
+    "require": {
         "slevomat/coding-standard": "~5.0"
     }
 }
