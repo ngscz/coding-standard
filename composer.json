@@ -2,6 +2,7 @@
     "name": "ngscz/coding-standard",
     "description": "Coding standards",
     "keywords": ["coding standards"],
+    "minimum-stability": "dev",
     "require-dev": {
         "slevomat/coding-standard": "~5.0"
     }
